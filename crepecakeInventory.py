@@ -1,6 +1,3 @@
-#Final Project
-#Classes and Objects Option
-#May. 11th, 2020
 # A class works with the chain stores that sell crepe cakes in the DMV area
 # contains 5 attributes: flavor, price, availableStore, size, and avePricePerSqInch
 # contains 6 methods (including the constructor):
