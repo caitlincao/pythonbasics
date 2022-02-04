@@ -1,6 +1,3 @@
-#P2_Cao.py
-#Caitlin Cao
-#March 16, 2020
 import random
 import time
 
